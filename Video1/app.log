@@ -1,0 +1,1081 @@
+2025-03-07 12:08:51,480 - INFO - Camera started
+2025-03-07 12:09:31,979 - WARNING - Failed to read frame from video
+2025-03-07 12:09:34,691 - INFO - Camera stopped
+2025-03-07 12:12:19,107 - INFO - Camera started
+2025-03-07 12:12:44,234 - INFO - Camera stopped
+2025-03-07 12:13:30,389 - INFO - Camera started
+2025-03-07 12:13:58,090 - INFO - Camera stopped
+2025-03-07 12:14:15,603 - INFO - Camera started
+2025-03-07 12:15:44,911 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:16:54,695 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:16:56,601 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:17:17,172 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:17:18,141 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:17:20,614 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:17:44,107 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:17:44,266 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:18:01,660 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:18:26,291 - WARNING - Failed to read frame from video
+2025-03-07 12:20:51,284 - INFO - Camera started
+2025-03-07 12:20:51,316 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=0, y=0, w=854, h=480
+2025-03-07 12:20:53,545 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=136, y=137, w=36, h=105
+2025-03-07 12:20:53,592 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=78, w=48, h=168
+2025-03-07 12:20:53,636 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=310, w=35, h=112
+2025-03-07 12:20:53,636 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=74, y=98, w=23, h=124
+2025-03-07 12:20:53,636 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=123, y=78, w=50, h=189
+2025-03-07 12:20:53,683 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=91, y=307, w=36, h=115
+2025-03-07 12:20:53,683 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=225, w=29, h=48
+2025-03-07 12:20:53,683 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=73, y=84, w=32, h=140
+2025-03-07 12:20:53,683 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=73, w=49, h=196
+2025-03-07 12:20:53,730 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=91, y=307, w=36, h=115
+2025-03-07 12:20:53,730 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=225, w=30, h=57
+2025-03-07 12:20:53,731 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=73, y=83, w=33, h=141
+2025-03-07 12:20:53,731 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=70, w=50, h=232
+2025-03-07 12:20:53,776 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=91, y=307, w=36, h=115
+2025-03-07 12:20:53,776 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=224, w=31, h=63
+2025-03-07 12:20:53,776 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=74, y=83, w=32, h=140
+2025-03-07 12:20:53,777 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=69, w=51, h=236
+2025-03-07 12:20:53,825 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=310, w=35, h=115
+2025-03-07 12:20:53,825 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=93, y=137, w=35, h=87
+2025-03-07 12:20:53,825 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=43, w=45, h=253
+2025-03-07 12:20:53,825 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=28, w=54, h=284
+2025-03-07 12:20:53,870 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=310, w=35, h=115
+2025-03-07 12:20:53,870 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=29, w=56, h=283
+2025-03-07 12:20:53,870 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=22, w=66, h=283
+2025-03-07 12:20:53,918 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=112, y=415, w=45, h=37
+2025-03-07 12:20:53,918 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=93, y=316, w=34, h=109
+2025-03-07 12:20:53,918 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=22, w=118, h=296
+2025-03-07 12:20:53,965 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=111, y=415, w=46, h=38
+2025-03-07 12:20:53,965 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=22, w=120, h=411
+2025-03-07 12:20:54,010 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=111, y=415, w=45, h=38
+2025-03-07 12:20:54,011 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=121, h=417
+2025-03-07 12:20:54,011 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=119, y=146, w=31, h=52
+2025-03-07 12:20:54,061 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=124, h=436
+2025-03-07 12:20:54,108 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=79, y=410, w=80, h=48
+2025-03-07 12:20:54,108 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=127, h=359
+2025-03-07 12:20:54,151 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=79, y=370, w=85, h=89
+2025-03-07 12:20:54,151 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=129, h=316
+2025-03-07 12:20:54,151 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=90, y=30, w=60, h=115
+2025-03-07 12:20:54,197 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=79, y=356, w=89, h=103
+2025-03-07 12:20:54,197 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=130, h=381
+2025-03-07 12:20:54,197 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=96, y=51, w=54, h=95
+2025-03-07 12:20:54,197 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=98, y=30, w=41, h=40
+2025-03-07 12:20:54,258 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=132, h=437
+2025-03-07 12:20:54,259 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=249, w=55, h=166
+2025-03-07 12:20:54,259 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=120, y=143, w=32, h=105
+2025-03-07 12:20:54,259 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=100, y=30, w=50, h=116
+2025-03-07 12:20:54,309 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=134, h=438
+2025-03-07 12:20:54,310 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=102, y=30, w=59, h=392
+2025-03-07 12:20:54,354 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=66, y=22, w=133, h=438
+2025-03-07 12:20:54,354 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=114, y=200, w=47, h=235
+2025-03-07 12:20:54,354 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=104, y=61, w=48, h=137
+2025-03-07 12:20:54,404 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=66, y=22, w=134, h=437
+2025-03-07 12:20:54,404 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=118, y=200, w=43, h=235
+2025-03-07 12:20:54,405 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=125, y=143, w=26, h=58
+2025-03-07 12:20:54,448 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=67, y=22, w=136, h=437
+2025-03-07 12:20:54,449 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=122, y=201, w=38, h=226
+2025-03-07 12:20:54,449 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=143, w=25, h=59
+2025-03-07 12:20:54,495 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=70, y=22, w=141, h=437
+2025-03-07 12:20:54,495 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=200, w=49, h=232
+2025-03-07 12:20:54,495 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=129, y=144, w=23, h=58
+2025-03-07 12:20:54,539 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=72, y=22, w=134, h=437
+2025-03-07 12:20:54,539 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=130, y=107, w=45, h=320
+2025-03-07 12:20:54,586 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=23, w=132, h=436
+2025-03-07 12:20:54,586 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=107, y=107, w=71, h=319
+2025-03-07 12:20:54,632 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=23, w=136, h=436
+2025-03-07 12:20:54,633 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=110, y=111, w=52, h=315
+2025-03-07 12:20:54,678 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=24, w=142, h=435
+2025-03-07 12:20:54,679 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=113, y=161, w=51, h=231
+2025-03-07 12:20:54,727 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=24, w=158, h=435
+2025-03-07 12:20:54,727 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=141, y=273, w=20, h=115
+2025-03-07 12:20:54,727 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=119, y=159, w=47, h=111
+2025-03-07 12:20:54,770 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=24, w=166, h=435
+2025-03-07 12:20:54,770 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=146, y=302, w=15, h=84
+2025-03-07 12:20:54,770 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=122, y=199, w=46, h=96
+2025-03-07 12:20:54,816 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=80, y=25, w=170, h=432
+2025-03-07 12:20:54,816 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=125, y=200, w=45, h=108
+2025-03-07 12:20:54,816 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=145, y=159, w=24, h=41
+2025-03-07 12:20:54,817 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=71, w=41, h=87
+2025-03-07 12:20:54,864 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=82, y=25, w=176, h=432
+2025-03-07 12:20:54,865 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=126, y=197, w=46, h=103
+2025-03-07 12:20:54,865 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=145, y=159, w=26, h=42
+2025-03-07 12:20:54,865 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=67, w=41, h=94
+2025-03-07 12:20:54,912 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=85, y=26, w=181, h=432
+2025-03-07 12:20:54,961 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=30, w=183, h=423
+2025-03-07 12:20:54,962 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=157, y=357, w=20, h=55
+2025-03-07 12:20:54,962 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=89, y=26, w=79, h=198
+2025-03-07 12:20:55,013 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=33, w=191, h=420
+2025-03-07 12:20:55,013 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=90, y=26, w=78, h=198
+2025-03-07 12:20:55,051 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=35, w=197, h=419
+2025-03-07 12:20:55,052 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=97, y=26, w=71, h=198
+2025-03-07 12:20:55,098 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=93, y=39, w=202, h=415
+2025-03-07 12:20:55,098 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=100, y=27, w=68, h=197
+2025-03-07 12:20:55,145 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=170, y=44, w=130, h=375
+2025-03-07 12:20:55,146 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=93, y=27, w=91, h=425
+2025-03-07 12:20:55,195 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=153, y=60, w=161, h=353
+2025-03-07 12:20:55,196 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=102, y=27, w=80, h=412
+2025-03-07 12:20:55,238 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=172, w=77, h=265
+2025-03-07 12:20:55,239 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=161, y=69, w=161, h=341
+2025-03-07 12:20:55,239 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=103, y=28, w=65, h=142
+2025-03-07 12:20:55,284 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=172, w=75, h=265
+2025-03-07 12:20:55,285 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=119, y=82, w=49, h=88
+2025-03-07 12:20:55,285 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=80, w=146, h=330
+2025-03-07 12:20:55,285 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=212, y=216, w=49, h=75
+2025-03-07 12:20:55,285 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=106, y=28, w=36, h=53
+2025-03-07 12:20:55,330 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=172, w=74, h=265
+2025-03-07 12:20:55,330 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=135, y=103, w=29, h=67
+2025-03-07 12:20:55,330 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=189, y=91, w=150, h=318
+2025-03-07 12:20:55,331 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=109, y=28, w=33, h=53
+2025-03-07 12:20:55,379 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=172, w=74, h=267
+2025-03-07 12:20:55,379 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=136, y=104, w=28, h=64
+2025-03-07 12:20:55,379 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=191, y=103, w=158, h=307
+2025-03-07 12:20:55,380 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=114, y=29, w=28, h=52
+2025-03-07 12:20:55,428 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=274, w=75, h=165
+2025-03-07 12:20:55,429 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=121, y=172, w=35, h=101
+2025-03-07 12:20:55,429 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=193, y=114, w=168, h=299
+2025-03-07 12:20:55,429 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=137, y=106, w=27, h=62
+2025-03-07 12:20:55,429 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=116, y=29, w=26, h=52
+2025-03-07 12:20:55,474 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=274, w=73, h=163
+2025-03-07 12:20:55,474 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=121, y=173, w=35, h=100
+2025-03-07 12:20:55,475 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=191, y=126, w=183, h=290
+2025-03-07 12:20:55,475 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=137, y=106, w=22, h=62
+2025-03-07 12:20:55,520 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=281, w=72, h=160
+2025-03-07 12:20:55,520 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=125, y=173, w=31, h=98
+2025-03-07 12:20:55,520 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=190, y=138, w=196, h=279
+2025-03-07 12:20:55,565 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=108, y=281, w=74, h=161
+2025-03-07 12:20:55,565 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=191, w=29, h=80
+2025-03-07 12:20:55,565 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=180, y=151, w=220, h=274
+2025-03-07 12:20:55,565 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=283, y=371, w=88, h=13
+2025-03-07 12:20:55,615 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=113, y=291, w=78, h=145
+2025-03-07 12:20:55,616 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=201, w=29, h=68
+2025-03-07 12:20:55,616 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=159, y=166, w=260, h=284
+2025-03-07 12:20:55,616 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=283, y=371, w=114, h=13
+2025-03-07 12:20:55,657 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=174, y=462, w=414, h=18
+2025-03-07 12:20:55,658 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=129, y=204, w=27, h=65
+2025-03-07 12:20:55,658 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=117, y=203, w=413, h=257
+2025-03-07 12:20:55,716 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=119, y=221, w=482, h=259
+2025-03-07 12:20:55,716 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=366, y=370, w=79, h=13
+2025-03-07 12:20:55,717 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=132, y=204, w=24, h=65
+2025-03-07 12:20:55,770 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=133, y=235, w=481, h=245
+2025-03-07 12:20:55,770 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=133, y=208, w=23, h=61
+2025-03-07 12:20:55,820 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=126, y=395, w=434, h=85
+2025-03-07 12:20:55,821 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=151, y=247, w=463, h=165
+2025-03-07 12:20:55,821 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=283, y=371, w=80, h=16
+2025-03-07 12:20:55,821 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=135, y=209, w=21, h=59
+2025-03-07 12:20:55,862 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=383, w=407, h=97
+2025-03-07 12:20:55,862 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=154, y=259, w=460, h=153
+2025-03-07 12:20:55,862 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=283, y=371, w=97, h=15
+2025-03-07 12:20:55,909 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=171, y=458, w=375, h=22
+2025-03-07 12:20:55,910 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=166, y=378, w=74, h=75
+2025-03-07 12:20:55,910 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=166, y=268, w=442, h=144
+2025-03-07 12:20:55,910 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=267, y=371, w=163, h=16
+2025-03-07 12:20:55,954 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=464, w=368, h=16
+2025-03-07 12:20:55,955 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=177, y=248, w=429, h=164
+2025-03-07 12:20:55,955 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=267, y=371, w=145, h=18
+2025-03-07 12:20:56,002 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=330, y=463, w=254, h=10
+2025-03-07 12:20:56,002 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=191, y=229, w=410, h=183
+2025-03-07 12:20:56,051 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=406, h=17
+2025-03-07 12:20:56,051 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=206, y=210, w=408, h=202
+2025-03-07 12:20:56,051 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=218, h=36
+2025-03-07 12:20:56,099 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:20:56,099 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=216, y=195, w=398, h=217
+2025-03-07 12:20:56,099 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=226, h=36
+2025-03-07 12:20:56,146 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:20:56,146 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=228, y=174, w=386, h=238
+2025-03-07 12:20:56,147 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=238, h=36
+2025-03-07 12:20:56,194 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=411, h=17
+2025-03-07 12:20:56,194 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=232, y=169, w=382, h=243
+2025-03-07 12:20:56,194 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=240, h=36
+2025-03-07 12:20:56,240 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=222, y=463, w=366, h=15
+2025-03-07 12:20:56,241 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=233, y=164, w=381, h=248
+2025-03-07 12:20:56,241 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=242, h=36
+2025-03-07 12:20:56,283 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=222, y=464, w=340, h=14
+2025-03-07 12:20:56,283 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=234, y=162, w=380, h=250
+2025-03-07 12:20:56,284 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=243, h=36
+2025-03-07 12:20:56,284 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=552, y=368, w=50, h=29
+2025-03-07 12:20:56,334 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=464, w=384, h=16
+2025-03-07 12:20:56,334 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=232, y=163, w=382, h=249
+2025-03-07 12:20:56,334 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=244, h=36
+2025-03-07 12:20:56,334 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=549, y=368, w=55, h=29
+2025-03-07 12:20:56,377 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:20:56,378 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=229, y=166, w=385, h=246
+2025-03-07 12:20:56,378 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=299, y=386, w=71, h=16
+2025-03-07 12:20:56,378 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=244, h=36
+2025-03-07 12:20:56,378 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=546, y=368, w=56, h=29
+2025-03-07 12:20:56,425 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=407, h=17
+2025-03-07 12:20:56,425 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=225, y=171, w=389, h=241
+2025-03-07 12:20:56,425 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=244, h=36
+2025-03-07 12:20:56,425 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=546, y=368, w=56, h=29
+2025-03-07 12:20:56,426 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=142, y=107, w=67, h=111
+2025-03-07 12:20:56,426 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=210, y=49, w=472, h=63
+2025-03-07 12:20:56,472 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=407, h=17
+2025-03-07 12:20:56,472 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=713, y=308, w=21, h=46
+2025-03-07 12:20:56,472 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=219, y=178, w=395, h=234
+2025-03-07 12:20:56,472 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=201, h=36
+2025-03-07 12:20:56,473 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=368, w=57, h=29
+2025-03-07 12:20:56,473 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=142, y=107, w=67, h=111
+2025-03-07 12:20:56,473 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=210, y=40, w=551, h=71
+2025-03-07 12:20:56,515 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=407, h=17
+2025-03-07 12:20:56,515 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=211, y=187, w=403, h=225
+2025-03-07 12:20:56,515 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=385, y=389, w=107, h=12
+2025-03-07 12:20:56,515 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=250, y=371, w=122, h=34
+2025-03-07 12:20:56,515 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=375, y=370, w=81, h=13
+2025-03-07 12:20:56,515 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=544, y=368, w=58, h=29
+2025-03-07 12:20:56,515 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=142, y=107, w=67, h=111
+2025-03-07 12:20:56,515 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=238, y=40, w=523, h=68
+2025-03-07 12:20:56,567 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:20:56,567 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=202, y=198, w=412, h=214
+2025-03-07 12:20:56,567 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=250, y=370, w=198, h=35
+2025-03-07 12:20:56,568 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=544, y=368, w=60, h=29
+2025-03-07 12:20:56,609 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:20:56,609 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=187, y=229, w=427, h=183
+2025-03-07 12:20:56,610 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=286, y=371, w=136, h=16
+2025-03-07 12:20:56,610 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=538, y=368, w=66, h=29
+2025-03-07 12:20:56,661 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:20:56,662 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=248, w=438, h=164
+2025-03-07 12:20:56,662 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=537, y=368, w=67, h=29
+2025-03-07 12:20:56,701 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:20:56,701 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=160, y=270, w=454, h=141
+2025-03-07 12:20:56,701 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=544, y=368, w=60, h=29
+2025-03-07 12:20:56,749 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=378, h=17
+2025-03-07 12:20:56,749 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=157, y=296, w=457, h=115
+2025-03-07 12:20:56,749 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=368, w=58, h=29
+2025-03-07 12:20:56,796 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=149, y=323, w=465, h=118
+2025-03-07 12:20:56,796 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=368, w=58, h=29
+2025-03-07 12:20:56,796 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=329, y=367, w=126, h=34
+2025-03-07 12:20:56,846 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=352, w=52, h=78
+2025-03-07 12:20:56,846 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=172, y=323, w=441, h=112
+2025-03-07 12:20:56,846 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=367, w=58, h=30
+2025-03-07 12:20:56,891 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=352, w=55, h=71
+2025-03-07 12:20:56,891 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=324, w=440, h=109
+2025-03-07 12:20:56,891 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=332, y=369, w=169, h=30
+2025-03-07 12:20:56,892 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=367, w=58, h=30
+2025-03-07 12:20:56,892 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=375, y=349, w=55, h=27
+2025-03-07 12:20:56,939 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=325, w=454, h=104
+2025-03-07 12:20:56,940 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=273, y=347, w=229, h=55
+2025-03-07 12:20:56,985 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=137, y=326, w=454, h=88
+2025-03-07 12:20:56,985 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=258, y=347, w=245, h=56
+2025-03-07 12:20:57,032 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=318, w=452, h=95
+2025-03-07 12:20:57,080 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=443, y=327, w=147, h=75
+2025-03-07 12:20:57,080 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=141, y=312, w=399, h=101
+2025-03-07 12:20:57,128 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=459, y=327, w=131, h=74
+2025-03-07 12:20:57,128 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=141, y=315, w=372, h=98
+2025-03-07 12:20:57,175 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=143, y=340, w=46, h=77
+2025-03-07 12:20:57,176 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=471, y=327, w=119, h=74
+2025-03-07 12:20:57,176 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=323, w=337, h=94
+2025-03-07 12:20:57,176 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=252, y=378, w=77, h=20
+2025-03-07 12:20:57,220 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=141, y=361, w=46, h=62
+2025-03-07 12:20:57,220 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=334, w=339, h=99
+2025-03-07 12:20:57,220 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=484, y=328, w=106, h=73
+2025-03-07 12:20:57,271 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=140, y=378, w=49, h=46
+2025-03-07 12:20:57,271 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=472, y=363, w=84, h=29
+2025-03-07 12:20:57,271 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=344, w=333, h=89
+2025-03-07 12:20:57,271 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=494, y=328, w=96, h=45
+2025-03-07 12:20:57,317 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=140, y=362, w=48, h=63
+2025-03-07 12:20:57,317 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=344, w=330, h=85
+2025-03-07 12:20:57,317 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=495, y=329, w=95, h=44
+2025-03-07 12:20:57,363 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=140, y=358, w=52, h=65
+2025-03-07 12:20:57,363 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=344, w=330, h=85
+2025-03-07 12:20:57,363 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=537, y=330, w=53, h=43
+2025-03-07 12:20:57,411 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=369, w=45, h=54
+2025-03-07 12:20:57,411 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=341, w=329, h=88
+2025-03-07 12:20:57,460 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=351, w=45, h=72
+2025-03-07 12:20:57,460 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=336, w=327, h=93
+2025-03-07 12:20:57,461 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=239, y=376, w=92, h=23
+2025-03-07 12:20:57,508 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=361, w=51, h=63
+2025-03-07 12:20:57,508 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=335, w=321, h=94
+2025-03-07 12:20:57,554 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=292, y=387, w=205, h=23
+2025-03-07 12:20:57,555 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=368, w=51, h=56
+2025-03-07 12:20:57,555 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=337, w=192, h=96
+2025-03-07 12:20:57,602 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=390, w=98, h=20
+2025-03-07 12:20:57,602 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=292, y=387, w=103, h=21
+2025-03-07 12:20:57,602 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=356, w=51, h=67
+2025-03-07 12:20:57,603 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=350, w=184, h=79
+2025-03-07 12:20:57,646 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=391, w=98, h=19
+2025-03-07 12:20:57,647 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=292, y=387, w=87, h=21
+2025-03-07 12:20:57,647 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=376, w=51, h=48
+2025-03-07 12:20:57,647 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=349, w=174, h=73
+2025-03-07 12:20:57,692 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=391, w=98, h=19
+2025-03-07 12:20:57,692 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=292, y=387, w=75, h=21
+2025-03-07 12:20:57,693 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=372, w=43, h=51
+2025-03-07 12:20:57,693 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=349, w=174, h=73
+2025-03-07 12:20:57,740 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=391, w=98, h=19
+2025-03-07 12:20:57,740 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=354, w=55, h=69
+2025-03-07 12:20:57,741 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=349, w=172, h=73
+2025-03-07 12:20:57,797 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=391, w=98, h=19
+2025-03-07 12:20:57,798 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=355, w=53, h=68
+2025-03-07 12:20:57,798 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=349, w=164, h=73
+2025-03-07 12:20:57,849 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=391, w=97, h=19
+2025-03-07 12:20:57,849 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=391, w=105, h=31
+2025-03-07 12:20:57,849 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=354, w=53, h=69
+2025-03-07 12:20:57,849 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=195, y=349, w=151, h=44
+2025-03-07 12:20:57,900 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=397, w=82, h=25
+2025-03-07 12:20:57,900 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=393, w=97, h=17
+2025-03-07 12:20:57,901 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=376, w=53, h=47
+2025-03-07 12:20:57,901 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=195, y=349, w=150, h=44
+2025-03-07 12:20:57,946 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=393, w=97, h=17
+2025-03-07 12:20:57,946 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=376, w=46, h=46
+2025-03-07 12:20:57,946 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=196, y=352, w=102, h=34
+2025-03-07 12:20:57,993 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=393, w=97, h=17
+2025-03-07 12:20:57,993 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=376, w=54, h=46
+2025-03-07 12:20:57,994 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=198, y=356, w=89, h=30
+2025-03-07 12:20:58,040 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=393, w=97, h=17
+2025-03-07 12:20:58,040 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=381, w=54, h=41
+2025-03-07 12:20:58,088 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=381, w=53, h=41
+2025-03-07 12:20:58,134 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=382, w=41, h=40
+2025-03-07 12:20:58,177 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=382, w=41, h=40
+2025-03-07 12:20:58,222 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=382, w=41, h=40
+2025-03-07 12:20:59,786 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=352, w=33, h=35
+2025-03-07 12:20:59,922 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=352, w=30, h=44
+2025-03-07 12:21:12,834 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=515, y=322, w=65, h=31
+2025-03-07 12:21:12,881 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=374, y=386, w=135, h=26
+2025-03-07 12:21:12,881 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=487, y=318, w=95, h=38
+2025-03-07 12:21:12,929 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=375, y=386, w=140, h=27
+2025-03-07 12:21:12,929 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=485, y=314, w=93, h=40
+2025-03-07 12:21:12,975 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=376, y=384, w=149, h=30
+2025-03-07 12:21:12,976 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=461, y=309, w=125, h=61
+2025-03-07 12:21:13,033 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=378, y=374, w=152, h=41
+2025-03-07 12:21:13,034 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=460, y=303, w=126, h=67
+2025-03-07 12:21:13,072 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=379, y=380, w=167, h=35
+2025-03-07 12:21:13,072 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=458, y=298, w=113, h=72
+2025-03-07 12:21:13,120 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=381, y=380, w=166, h=35
+2025-03-07 12:21:13,120 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=456, y=292, w=111, h=84
+2025-03-07 12:21:13,167 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=382, y=376, w=165, h=39
+2025-03-07 12:21:13,167 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=454, y=287, w=108, h=90
+2025-03-07 12:21:13,215 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=383, y=375, w=164, h=40
+2025-03-07 12:21:13,216 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=157, y=351, w=45, h=43
+2025-03-07 12:21:13,216 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=452, y=282, w=106, h=95
+2025-03-07 12:21:13,260 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=384, y=373, w=163, h=41
+2025-03-07 12:21:13,261 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=157, y=351, w=45, h=43
+2025-03-07 12:21:13,261 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=446, y=277, w=107, h=99
+2025-03-07 12:21:13,308 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=397, w=118, h=19
+2025-03-07 12:21:13,308 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=386, y=371, w=161, h=43
+2025-03-07 12:21:13,308 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=157, y=349, w=29, h=40
+2025-03-07 12:21:13,308 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=210, y=344, w=135, h=34
+2025-03-07 12:21:13,308 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=432, y=268, w=112, h=103
+2025-03-07 12:21:13,357 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=197, y=399, w=106, h=13
+2025-03-07 12:21:13,357 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=387, y=371, w=160, h=43
+2025-03-07 12:21:13,358 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=152, y=348, w=34, h=41
+2025-03-07 12:21:13,358 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=195, y=344, w=150, h=34
+2025-03-07 12:21:13,358 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=423, y=263, w=116, h=106
+2025-03-07 12:21:13,403 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=265, y=465, w=143, h=10
+2025-03-07 12:21:13,404 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=167, y=393, w=134, h=21
+2025-03-07 12:21:13,404 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=155, y=347, w=31, h=50
+2025-03-07 12:21:13,404 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=187, y=343, w=158, h=35
+2025-03-07 12:21:13,404 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=388, y=259, w=159, h=155
+2025-03-07 12:21:13,450 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=230, y=465, w=178, h=11
+2025-03-07 12:21:13,450 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=390, y=391, w=157, h=24
+2025-03-07 12:21:13,450 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=439, y=348, w=58, h=53
+2025-03-07 12:21:13,450 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=143, y=346, w=159, h=77
+2025-03-07 12:21:13,450 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=192, y=342, w=152, h=49
+2025-03-07 12:21:13,450 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=415, y=255, w=116, h=114
+2025-03-07 12:21:13,496 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=179, y=464, w=239, h=15
+2025-03-07 12:21:13,496 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=304, y=359, w=54, h=18
+2025-03-07 12:21:13,496 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=392, y=348, w=155, h=67
+2025-03-07 12:21:13,496 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=143, y=340, w=236, h=83
+2025-03-07 12:21:13,497 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=408, y=251, w=118, h=118
+2025-03-07 12:21:13,542 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,543 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=304, y=359, w=58, h=18
+2025-03-07 12:21:13,543 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=395, y=348, w=131, h=68
+2025-03-07 12:21:13,543 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=153, y=342, w=166, h=71
+2025-03-07 12:21:13,543 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=189, y=338, w=193, h=53
+2025-03-07 12:21:13,543 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=407, y=248, w=115, h=121
+2025-03-07 12:21:13,591 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,591 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=304, y=359, w=59, h=18
+2025-03-07 12:21:13,591 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=398, y=348, w=127, h=69
+2025-03-07 12:21:13,591 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=157, y=338, w=162, h=75
+2025-03-07 12:21:13,591 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=189, y=337, w=202, h=54
+2025-03-07 12:21:13,591 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=407, y=245, w=110, h=124
+2025-03-07 12:21:13,655 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,656 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=403, y=381, w=122, h=37
+2025-03-07 12:21:13,656 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=304, y=359, w=60, h=18
+2025-03-07 12:21:13,656 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=160, y=334, w=232, h=78
+2025-03-07 12:21:13,656 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=409, y=243, w=104, h=145
+2025-03-07 12:21:13,696 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,696 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=407, y=381, w=119, h=37
+2025-03-07 12:21:13,696 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=165, y=331, w=228, h=81
+2025-03-07 12:21:13,696 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=407, y=242, w=101, h=127
+2025-03-07 12:21:13,745 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,745 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=410, y=379, w=118, h=40
+2025-03-07 12:21:13,745 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=167, y=241, w=338, h=171
+2025-03-07 12:21:13,792 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,792 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=365, y=386, w=61, h=21
+2025-03-07 12:21:13,792 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=420, y=378, w=118, h=44
+2025-03-07 12:21:13,792 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=241, w=335, h=171
+2025-03-07 12:21:13,839 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,840 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=386, w=57, h=21
+2025-03-07 12:21:13,840 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=422, y=373, w=127, h=53
+2025-03-07 12:21:13,840 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=313, w=228, h=99
+2025-03-07 12:21:13,840 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=339, y=241, w=163, h=128
+2025-03-07 12:21:13,884 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,884 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=350, y=381, w=202, h=48
+2025-03-07 12:21:13,885 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=310, w=231, h=102
+2025-03-07 12:21:13,885 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=338, y=243, w=162, h=127
+2025-03-07 12:21:13,932 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,932 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=329, y=350, w=223, h=80
+2025-03-07 12:21:13,932 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=307, w=231, h=104
+2025-03-07 12:21:13,932 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=339, y=244, w=159, h=126
+2025-03-07 12:21:13,981 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:13,981 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=245, w=384, h=185
+2025-03-07 12:21:14,024 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=175, y=464, w=243, h=15
+2025-03-07 12:21:14,024 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=203, y=355, w=362, h=76
+2025-03-07 12:21:14,024 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=247, w=328, h=130
+2025-03-07 12:21:14,024 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=380, y=309, w=43, h=35
+2025-03-07 12:21:14,072 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=174, y=464, w=244, h=16
+2025-03-07 12:21:14,073 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=206, y=360, w=359, h=71
+2025-03-07 12:21:14,073 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=246, y=386, w=79, h=20
+2025-03-07 12:21:14,073 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=167, y=249, w=330, h=127
+2025-03-07 12:21:14,073 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=384, y=309, w=36, h=34
+2025-03-07 12:21:14,118 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=174, y=464, w=244, h=16
+2025-03-07 12:21:14,118 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=208, y=364, w=357, h=66
+2025-03-07 12:21:14,118 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=165, y=251, w=333, h=125
+2025-03-07 12:21:14,118 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=384, y=310, w=34, h=31
+2025-03-07 12:21:14,165 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=174, y=464, w=244, h=16
+2025-03-07 12:21:14,165 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=209, y=367, w=356, h=63
+2025-03-07 12:21:14,165 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=163, y=254, w=336, h=122
+2025-03-07 12:21:14,165 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=384, y=311, w=32, h=28
+2025-03-07 12:21:14,211 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=174, y=465, w=234, h=15
+2025-03-07 12:21:14,211 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=213, y=364, w=359, h=66
+2025-03-07 12:21:14,211 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=160, y=256, w=341, h=139
+2025-03-07 12:21:14,258 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=155, y=262, w=420, h=168
+2025-03-07 12:21:14,304 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=154, y=266, w=424, h=165
+2025-03-07 12:21:14,353 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=250, y=378, w=328, h=54
+2025-03-07 12:21:14,353 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=155, y=347, w=31, h=36
+2025-03-07 12:21:14,353 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=189, y=269, w=320, h=143
+2025-03-07 12:21:14,353 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=212, y=352, w=101, h=40
+2025-03-07 12:21:14,400 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=158, y=357, w=28, h=34
+2025-03-07 12:21:14,400 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=191, y=273, w=387, h=160
+2025-03-07 12:21:14,438 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=613, y=449, w=93, h=18
+2025-03-07 12:21:14,438 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=196, y=277, w=384, h=156
+2025-03-07 12:21:14,456 - INFO - Camera stopped
+2025-03-07 12:21:29,776 - INFO - Camera started
+2025-03-07 12:21:29,788 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=0, y=0, w=854, h=480
+2025-03-07 12:21:32,002 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=136, y=137, w=36, h=105
+2025-03-07 12:21:32,044 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=78, w=48, h=168
+2025-03-07 12:21:32,098 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=310, w=35, h=112
+2025-03-07 12:21:32,098 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=74, y=98, w=23, h=124
+2025-03-07 12:21:32,099 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=123, y=78, w=50, h=189
+2025-03-07 12:21:32,140 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=91, y=307, w=36, h=115
+2025-03-07 12:21:32,141 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=225, w=29, h=48
+2025-03-07 12:21:32,141 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=73, y=84, w=32, h=140
+2025-03-07 12:21:32,141 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=73, w=49, h=196
+2025-03-07 12:21:32,185 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=91, y=307, w=36, h=115
+2025-03-07 12:21:32,185 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=225, w=30, h=57
+2025-03-07 12:21:32,186 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=73, y=83, w=33, h=141
+2025-03-07 12:21:32,186 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=70, w=50, h=232
+2025-03-07 12:21:32,233 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=91, y=307, w=36, h=115
+2025-03-07 12:21:32,233 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=224, w=31, h=63
+2025-03-07 12:21:32,233 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=74, y=83, w=32, h=140
+2025-03-07 12:21:32,233 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=69, w=51, h=236
+2025-03-07 12:21:32,279 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=310, w=35, h=115
+2025-03-07 12:21:32,279 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=93, y=137, w=35, h=87
+2025-03-07 12:21:32,279 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=43, w=45, h=253
+2025-03-07 12:21:32,279 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=28, w=54, h=284
+2025-03-07 12:21:32,324 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=310, w=35, h=115
+2025-03-07 12:21:32,324 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=124, y=29, w=56, h=283
+2025-03-07 12:21:32,324 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=22, w=66, h=283
+2025-03-07 12:21:32,374 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=112, y=415, w=45, h=37
+2025-03-07 12:21:32,374 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=93, y=316, w=34, h=109
+2025-03-07 12:21:32,374 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=22, w=118, h=296
+2025-03-07 12:21:32,424 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=111, y=415, w=46, h=38
+2025-03-07 12:21:32,425 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=64, y=22, w=120, h=411
+2025-03-07 12:21:32,467 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=111, y=415, w=45, h=38
+2025-03-07 12:21:32,467 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=121, h=417
+2025-03-07 12:21:32,467 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=119, y=146, w=31, h=52
+2025-03-07 12:21:32,511 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=124, h=436
+2025-03-07 12:21:32,549 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=79, y=410, w=80, h=48
+2025-03-07 12:21:32,549 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=127, h=359
+2025-03-07 12:21:32,584 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=79, y=370, w=85, h=89
+2025-03-07 12:21:32,584 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=129, h=316
+2025-03-07 12:21:32,584 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=90, y=30, w=60, h=115
+2025-03-07 12:21:32,622 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=79, y=356, w=89, h=103
+2025-03-07 12:21:32,622 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=130, h=381
+2025-03-07 12:21:32,622 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=96, y=51, w=54, h=95
+2025-03-07 12:21:32,622 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=98, y=30, w=41, h=40
+2025-03-07 12:21:32,658 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=132, h=437
+2025-03-07 12:21:32,659 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=249, w=55, h=166
+2025-03-07 12:21:32,659 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=120, y=143, w=32, h=105
+2025-03-07 12:21:32,659 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=100, y=30, w=50, h=116
+2025-03-07 12:21:32,696 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=65, y=22, w=134, h=438
+2025-03-07 12:21:32,696 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=102, y=30, w=59, h=392
+2025-03-07 12:21:32,733 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=66, y=22, w=133, h=438
+2025-03-07 12:21:32,733 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=114, y=200, w=47, h=235
+2025-03-07 12:21:32,733 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=104, y=61, w=48, h=137
+2025-03-07 12:21:32,770 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=66, y=22, w=134, h=437
+2025-03-07 12:21:32,771 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=118, y=200, w=43, h=235
+2025-03-07 12:21:32,771 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=125, y=143, w=26, h=58
+2025-03-07 12:21:32,810 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=67, y=22, w=136, h=437
+2025-03-07 12:21:32,810 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=122, y=201, w=38, h=226
+2025-03-07 12:21:32,810 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=143, w=25, h=59
+2025-03-07 12:21:32,857 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=70, y=22, w=141, h=437
+2025-03-07 12:21:32,857 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=200, w=49, h=232
+2025-03-07 12:21:32,857 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=129, y=144, w=23, h=58
+2025-03-07 12:21:32,902 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=72, y=22, w=134, h=437
+2025-03-07 12:21:32,902 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=130, y=107, w=45, h=320
+2025-03-07 12:21:32,949 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=23, w=132, h=436
+2025-03-07 12:21:32,949 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=107, y=107, w=71, h=319
+2025-03-07 12:21:32,996 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=23, w=136, h=436
+2025-03-07 12:21:32,997 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=110, y=111, w=52, h=315
+2025-03-07 12:21:33,042 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=24, w=142, h=435
+2025-03-07 12:21:33,043 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=113, y=161, w=51, h=231
+2025-03-07 12:21:33,094 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=24, w=158, h=435
+2025-03-07 12:21:33,094 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=141, y=273, w=20, h=115
+2025-03-07 12:21:33,094 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=119, y=159, w=47, h=111
+2025-03-07 12:21:33,139 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=77, y=24, w=166, h=435
+2025-03-07 12:21:33,139 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=146, y=302, w=15, h=84
+2025-03-07 12:21:33,139 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=122, y=199, w=46, h=96
+2025-03-07 12:21:33,183 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=80, y=25, w=170, h=432
+2025-03-07 12:21:33,183 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=125, y=200, w=45, h=108
+2025-03-07 12:21:33,183 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=145, y=159, w=24, h=41
+2025-03-07 12:21:33,183 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=71, w=41, h=87
+2025-03-07 12:21:33,230 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=82, y=25, w=176, h=432
+2025-03-07 12:21:33,230 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=126, y=197, w=46, h=103
+2025-03-07 12:21:33,230 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=145, y=159, w=26, h=42
+2025-03-07 12:21:33,230 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=67, w=41, h=94
+2025-03-07 12:21:33,280 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=85, y=26, w=181, h=432
+2025-03-07 12:21:33,326 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=30, w=183, h=423
+2025-03-07 12:21:33,326 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=157, y=357, w=20, h=55
+2025-03-07 12:21:33,326 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=89, y=26, w=79, h=198
+2025-03-07 12:21:33,374 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=33, w=191, h=420
+2025-03-07 12:21:33,374 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=90, y=26, w=78, h=198
+2025-03-07 12:21:33,437 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=92, y=35, w=197, h=419
+2025-03-07 12:21:33,437 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=97, y=26, w=71, h=198
+2025-03-07 12:21:33,480 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=93, y=39, w=202, h=415
+2025-03-07 12:21:33,480 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=100, y=27, w=68, h=197
+2025-03-07 12:21:33,530 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=170, y=44, w=130, h=375
+2025-03-07 12:21:33,530 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=93, y=27, w=91, h=425
+2025-03-07 12:21:33,583 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=153, y=60, w=161, h=353
+2025-03-07 12:21:33,583 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=102, y=27, w=80, h=412
+2025-03-07 12:21:33,637 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=172, w=77, h=265
+2025-03-07 12:21:33,637 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=161, y=69, w=161, h=341
+2025-03-07 12:21:33,637 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=103, y=28, w=65, h=142
+2025-03-07 12:21:33,683 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=172, w=75, h=265
+2025-03-07 12:21:33,683 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=119, y=82, w=49, h=88
+2025-03-07 12:21:33,683 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=80, w=146, h=330
+2025-03-07 12:21:33,684 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=212, y=216, w=49, h=75
+2025-03-07 12:21:33,684 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=106, y=28, w=36, h=53
+2025-03-07 12:21:33,730 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=172, w=74, h=265
+2025-03-07 12:21:33,730 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=135, y=103, w=29, h=67
+2025-03-07 12:21:33,730 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=189, y=91, w=150, h=318
+2025-03-07 12:21:33,730 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=109, y=28, w=33, h=53
+2025-03-07 12:21:33,778 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=172, w=74, h=267
+2025-03-07 12:21:33,778 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=136, y=104, w=28, h=64
+2025-03-07 12:21:33,778 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=191, y=103, w=158, h=307
+2025-03-07 12:21:33,779 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=114, y=29, w=28, h=52
+2025-03-07 12:21:33,826 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=274, w=75, h=165
+2025-03-07 12:21:33,826 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=121, y=172, w=35, h=101
+2025-03-07 12:21:33,826 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=193, y=114, w=168, h=299
+2025-03-07 12:21:33,826 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=137, y=106, w=27, h=62
+2025-03-07 12:21:33,827 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=116, y=29, w=26, h=52
+2025-03-07 12:21:33,869 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=274, w=73, h=163
+2025-03-07 12:21:33,870 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=121, y=173, w=35, h=100
+2025-03-07 12:21:33,870 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=191, y=126, w=183, h=290
+2025-03-07 12:21:33,870 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=137, y=106, w=22, h=62
+2025-03-07 12:21:33,916 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=105, y=281, w=72, h=160
+2025-03-07 12:21:33,916 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=125, y=173, w=31, h=98
+2025-03-07 12:21:33,916 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=190, y=138, w=196, h=279
+2025-03-07 12:21:33,964 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=108, y=281, w=74, h=161
+2025-03-07 12:21:33,964 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=191, w=29, h=80
+2025-03-07 12:21:33,964 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=180, y=151, w=220, h=274
+2025-03-07 12:21:33,964 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=283, y=371, w=88, h=13
+2025-03-07 12:21:34,010 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=113, y=291, w=78, h=145
+2025-03-07 12:21:34,010 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=127, y=201, w=29, h=68
+2025-03-07 12:21:34,011 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=159, y=166, w=260, h=284
+2025-03-07 12:21:34,011 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=283, y=371, w=114, h=13
+2025-03-07 12:21:34,058 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=174, y=462, w=414, h=18
+2025-03-07 12:21:34,058 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=129, y=204, w=27, h=65
+2025-03-07 12:21:34,058 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=117, y=203, w=413, h=257
+2025-03-07 12:21:34,105 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=119, y=221, w=482, h=259
+2025-03-07 12:21:34,105 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=366, y=370, w=79, h=13
+2025-03-07 12:21:34,105 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=132, y=204, w=24, h=65
+2025-03-07 12:21:34,153 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=133, y=235, w=481, h=245
+2025-03-07 12:21:34,153 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=133, y=208, w=23, h=61
+2025-03-07 12:21:34,200 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=126, y=395, w=434, h=85
+2025-03-07 12:21:34,200 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=151, y=247, w=463, h=165
+2025-03-07 12:21:34,200 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=283, y=371, w=80, h=16
+2025-03-07 12:21:34,200 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=135, y=209, w=21, h=59
+2025-03-07 12:21:34,249 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=383, w=407, h=97
+2025-03-07 12:21:34,249 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=154, y=259, w=460, h=153
+2025-03-07 12:21:34,249 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=283, y=371, w=97, h=15
+2025-03-07 12:21:34,291 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=171, y=458, w=375, h=22
+2025-03-07 12:21:34,291 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=166, y=378, w=74, h=75
+2025-03-07 12:21:34,291 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=166, y=268, w=442, h=144
+2025-03-07 12:21:34,291 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=267, y=371, w=163, h=16
+2025-03-07 12:21:34,337 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=464, w=368, h=16
+2025-03-07 12:21:34,338 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=177, y=248, w=429, h=164
+2025-03-07 12:21:34,338 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=267, y=371, w=145, h=18
+2025-03-07 12:21:34,383 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=330, y=463, w=254, h=10
+2025-03-07 12:21:34,383 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=191, y=229, w=410, h=183
+2025-03-07 12:21:34,433 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=406, h=17
+2025-03-07 12:21:34,433 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=206, y=210, w=408, h=202
+2025-03-07 12:21:34,433 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=218, h=36
+2025-03-07 12:21:34,487 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:21:34,488 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=216, y=195, w=398, h=217
+2025-03-07 12:21:34,488 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=226, h=36
+2025-03-07 12:21:34,542 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:21:34,542 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=228, y=174, w=386, h=238
+2025-03-07 12:21:34,542 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=238, h=36
+2025-03-07 12:21:34,585 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=411, h=17
+2025-03-07 12:21:34,586 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=232, y=169, w=382, h=243
+2025-03-07 12:21:34,586 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=240, h=36
+2025-03-07 12:21:34,630 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=222, y=463, w=366, h=15
+2025-03-07 12:21:34,631 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=233, y=164, w=381, h=248
+2025-03-07 12:21:34,631 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=242, h=36
+2025-03-07 12:21:34,680 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=222, y=464, w=340, h=14
+2025-03-07 12:21:34,680 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=234, y=162, w=380, h=250
+2025-03-07 12:21:34,680 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=243, h=36
+2025-03-07 12:21:34,680 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=552, y=368, w=50, h=29
+2025-03-07 12:21:34,733 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=464, w=384, h=16
+2025-03-07 12:21:34,733 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=232, y=163, w=382, h=249
+2025-03-07 12:21:34,734 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=244, h=36
+2025-03-07 12:21:34,734 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=549, y=368, w=55, h=29
+2025-03-07 12:21:34,788 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:21:34,788 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=229, y=166, w=385, h=246
+2025-03-07 12:21:34,788 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=299, y=386, w=71, h=16
+2025-03-07 12:21:34,789 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=244, h=36
+2025-03-07 12:21:34,789 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=546, y=368, w=56, h=29
+2025-03-07 12:21:34,831 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=407, h=17
+2025-03-07 12:21:34,831 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=225, y=171, w=389, h=241
+2025-03-07 12:21:34,831 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=244, h=36
+2025-03-07 12:21:34,831 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=546, y=368, w=56, h=29
+2025-03-07 12:21:34,831 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=142, y=107, w=67, h=111
+2025-03-07 12:21:34,831 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=210, y=49, w=472, h=63
+2025-03-07 12:21:34,878 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=407, h=17
+2025-03-07 12:21:34,878 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=713, y=308, w=21, h=46
+2025-03-07 12:21:34,878 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=219, y=178, w=395, h=234
+2025-03-07 12:21:34,878 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=253, y=369, w=201, h=36
+2025-03-07 12:21:34,878 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=368, w=57, h=29
+2025-03-07 12:21:34,878 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=142, y=107, w=67, h=111
+2025-03-07 12:21:34,878 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=210, y=40, w=551, h=71
+2025-03-07 12:21:34,928 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=407, h=17
+2025-03-07 12:21:34,928 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=211, y=187, w=403, h=225
+2025-03-07 12:21:34,929 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=385, y=389, w=107, h=12
+2025-03-07 12:21:34,929 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=250, y=371, w=122, h=34
+2025-03-07 12:21:34,929 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=375, y=370, w=81, h=13
+2025-03-07 12:21:34,929 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=544, y=368, w=58, h=29
+2025-03-07 12:21:34,929 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=142, y=107, w=67, h=111
+2025-03-07 12:21:34,929 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=238, y=40, w=523, h=68
+2025-03-07 12:21:34,979 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:21:34,980 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=202, y=198, w=412, h=214
+2025-03-07 12:21:34,980 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=250, y=370, w=198, h=35
+2025-03-07 12:21:34,980 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=544, y=368, w=60, h=29
+2025-03-07 12:21:35,033 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:21:35,033 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=187, y=229, w=427, h=183
+2025-03-07 12:21:35,033 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=286, y=371, w=136, h=16
+2025-03-07 12:21:35,033 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=538, y=368, w=66, h=29
+2025-03-07 12:21:35,079 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:21:35,079 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=248, w=438, h=164
+2025-03-07 12:21:35,079 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=537, y=368, w=67, h=29
+2025-03-07 12:21:35,125 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=410, h=17
+2025-03-07 12:21:35,125 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=160, y=270, w=454, h=141
+2025-03-07 12:21:35,125 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=544, y=368, w=60, h=29
+2025-03-07 12:21:35,172 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=178, y=463, w=378, h=17
+2025-03-07 12:21:35,172 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=157, y=296, w=457, h=115
+2025-03-07 12:21:35,172 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=368, w=58, h=29
+2025-03-07 12:21:35,219 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=149, y=323, w=465, h=118
+2025-03-07 12:21:35,219 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=368, w=58, h=29
+2025-03-07 12:21:35,219 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=329, y=367, w=126, h=34
+2025-03-07 12:21:35,266 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=352, w=52, h=78
+2025-03-07 12:21:35,266 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=172, y=323, w=441, h=112
+2025-03-07 12:21:35,266 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=367, w=58, h=30
+2025-03-07 12:21:35,312 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=352, w=55, h=71
+2025-03-07 12:21:35,312 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=324, w=440, h=109
+2025-03-07 12:21:35,312 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=332, y=369, w=169, h=30
+2025-03-07 12:21:35,312 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=545, y=367, w=58, h=30
+2025-03-07 12:21:35,312 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=375, y=349, w=55, h=27
+2025-03-07 12:21:35,358 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=325, w=454, h=104
+2025-03-07 12:21:35,358 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=273, y=347, w=229, h=55
+2025-03-07 12:21:35,407 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=137, y=326, w=454, h=88
+2025-03-07 12:21:35,407 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=258, y=347, w=245, h=56
+2025-03-07 12:21:35,456 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=318, w=452, h=95
+2025-03-07 12:21:35,499 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=443, y=327, w=147, h=75
+2025-03-07 12:21:35,499 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=141, y=312, w=399, h=101
+2025-03-07 12:21:35,546 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=459, y=327, w=131, h=74
+2025-03-07 12:21:35,546 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=141, y=315, w=372, h=98
+2025-03-07 12:21:35,594 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=143, y=340, w=46, h=77
+2025-03-07 12:21:35,594 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=471, y=327, w=119, h=74
+2025-03-07 12:21:35,594 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=323, w=337, h=94
+2025-03-07 12:21:35,594 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=252, y=378, w=77, h=20
+2025-03-07 12:21:35,640 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=141, y=361, w=46, h=62
+2025-03-07 12:21:35,640 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=334, w=339, h=99
+2025-03-07 12:21:35,640 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=484, y=328, w=106, h=73
+2025-03-07 12:21:35,692 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=140, y=378, w=49, h=46
+2025-03-07 12:21:35,692 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=472, y=363, w=84, h=29
+2025-03-07 12:21:35,693 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=344, w=333, h=89
+2025-03-07 12:21:35,693 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=494, y=328, w=96, h=45
+2025-03-07 12:21:35,731 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=140, y=362, w=48, h=63
+2025-03-07 12:21:35,732 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=344, w=330, h=85
+2025-03-07 12:21:35,732 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=495, y=329, w=95, h=44
+2025-03-07 12:21:35,780 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=140, y=358, w=52, h=65
+2025-03-07 12:21:35,780 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=344, w=330, h=85
+2025-03-07 12:21:35,780 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=537, y=330, w=53, h=43
+2025-03-07 12:21:35,826 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=369, w=45, h=54
+2025-03-07 12:21:35,826 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=341, w=329, h=88
+2025-03-07 12:21:35,873 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=351, w=45, h=72
+2025-03-07 12:21:35,874 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=336, w=327, h=93
+2025-03-07 12:21:35,874 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=239, y=376, w=92, h=23
+2025-03-07 12:21:35,922 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=361, w=51, h=63
+2025-03-07 12:21:35,923 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=335, w=321, h=94
+2025-03-07 12:21:35,968 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=292, y=387, w=205, h=23
+2025-03-07 12:21:35,968 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=368, w=51, h=56
+2025-03-07 12:21:35,969 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=173, y=337, w=192, h=96
+2025-03-07 12:21:36,015 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=390, w=98, h=20
+2025-03-07 12:21:36,015 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=292, y=387, w=103, h=21
+2025-03-07 12:21:36,016 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=356, w=51, h=67
+2025-03-07 12:21:36,016 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=176, y=350, w=184, h=79
+2025-03-07 12:21:36,062 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=391, w=98, h=19
+2025-03-07 12:21:36,062 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=292, y=387, w=87, h=21
+2025-03-07 12:21:36,062 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=376, w=51, h=48
+2025-03-07 12:21:36,063 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=349, w=174, h=73
+2025-03-07 12:21:36,110 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=391, w=98, h=19
+2025-03-07 12:21:36,110 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=292, y=387, w=75, h=21
+2025-03-07 12:21:36,110 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=372, w=43, h=51
+2025-03-07 12:21:36,110 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=349, w=174, h=73
+2025-03-07 12:21:36,162 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=391, w=98, h=19
+2025-03-07 12:21:36,162 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=354, w=55, h=69
+2025-03-07 12:21:36,162 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=349, w=172, h=73
+2025-03-07 12:21:36,204 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=369, y=391, w=98, h=19
+2025-03-07 12:21:36,204 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=355, w=53, h=68
+2025-03-07 12:21:36,204 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=349, w=164, h=73
+2025-03-07 12:21:36,251 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=391, w=97, h=19
+2025-03-07 12:21:36,252 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=391, w=105, h=31
+2025-03-07 12:21:36,252 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=354, w=53, h=69
+2025-03-07 12:21:36,252 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=195, y=349, w=151, h=44
+2025-03-07 12:21:36,297 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=184, y=397, w=82, h=25
+2025-03-07 12:21:36,297 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=393, w=97, h=17
+2025-03-07 12:21:36,297 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=376, w=53, h=47
+2025-03-07 12:21:36,297 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=195, y=349, w=150, h=44
+2025-03-07 12:21:36,352 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=393, w=97, h=17
+2025-03-07 12:21:36,352 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=139, y=376, w=46, h=46
+2025-03-07 12:21:36,352 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=196, y=352, w=102, h=34
+2025-03-07 12:21:36,413 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=393, w=97, h=17
+2025-03-07 12:21:36,414 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=376, w=54, h=46
+2025-03-07 12:21:36,414 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=198, y=356, w=89, h=30
+2025-03-07 12:21:36,456 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=370, y=393, w=97, h=17
+2025-03-07 12:21:36,456 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=381, w=54, h=41
+2025-03-07 12:21:36,500 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=381, w=53, h=41
+2025-03-07 12:21:36,564 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=382, w=41, h=40
+2025-03-07 12:21:36,608 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=382, w=41, h=40
+2025-03-07 12:21:36,655 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=138, y=382, w=41, h=40
+2025-03-07 12:21:38,158 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=352, w=33, h=35
+2025-03-07 12:21:38,305 - INFO - Phát hi\u1ec7n ng\u01b0\u1eddi: x=168, y=352, w=30, h=44
+2025-03-07 12:21:47,644 - INFO - Camera stopped
+2025-03-07 12:22:39,586 - INFO - Camera started
+2025-03-07 12:23:13,302 - INFO - Camera started
+2025-03-07 12:23:13,337 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:16,300 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,098 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,392 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,435 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,530 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,577 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,620 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,670 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,722 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,767 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,850 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,851 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,851 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,891 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,937 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:17,990 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,030 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,076 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,077 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,122 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,123 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,123 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,123 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,171 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,171 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,171 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,220 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,221 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,221 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,273 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,274 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,274 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,325 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,326 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,326 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,373 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,374 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,423 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,423 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,468 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,468 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,515 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,516 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,562 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,562 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,611 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,612 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,612 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,653 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,654 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,654 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,700 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,700 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,750 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,751 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,797 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,798 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,841 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,841 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,889 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,889 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,932 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,932 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,983 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:18,984 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,027 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,075 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,121 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,168 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,221 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,263 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,307 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,307 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,354 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,354 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,406 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,406 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,406 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,456 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,456 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,457 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,457 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,512 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,512 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,513 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,556 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,556 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,556 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,602 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,602 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,602 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,602 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,652 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,652 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,652 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,696 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,697 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,697 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,741 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,741 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,741 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,741 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,788 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,788 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,788 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,833 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,882 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,882 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,937 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:19,999 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:20,038 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:20,085 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:20,133 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:20,181 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:20,229 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:20,274 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,198 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,247 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,292 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,292 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,340 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,340 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,388 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,388 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,434 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,481 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,481 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,528 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,528 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,576 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,576 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,576 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,626 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,626 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,626 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,674 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,674 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,674 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,674 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,717 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,717 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,717 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,765 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,813 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,813 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,813 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,860 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,861 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,909 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,909 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,909 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,956 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,956 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,956 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:35,956 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,002 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,002 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,002 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,050 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,050 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,050 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,095 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,095 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,143 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,143 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,190 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,190 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,243 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,243 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,244 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,285 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,285 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,286 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,334 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,335 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,382 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,383 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,428 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,428 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,474 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,474 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,523 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,523 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,572 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,616 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,660 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,705 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,754 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,799 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,800 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,845 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,845 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,891 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,892 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,940 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,940 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:23:36,980 - WARNING - Failed to read frame from video
+2025-03-07 12:26:43,159 - INFO - Camera started
+2025-03-07 12:26:43,172 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:46,083 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:46,893 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,177 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,241 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,348 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,395 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,442 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,506 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,568 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,624 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,722 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,723 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,723 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,765 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,809 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,856 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,913 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,966 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:47,966 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,013 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,013 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,013 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,013 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,061 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,061 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,061 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,109 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,109 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,109 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,155 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,155 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,155 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,204 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,204 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,205 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,255 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,256 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,301 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,302 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,344 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,344 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,390 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,390 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,437 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,438 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,494 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,494 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,495 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,550 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,551 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,551 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,592 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,593 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,639 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,639 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,690 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,690 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,744 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,745 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,801 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,801 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,842 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,842 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,888 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,889 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,936 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:48,984 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,032 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,076 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,123 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,174 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,227 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,227 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,278 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,278 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,325 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,325 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,325 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,373 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,373 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,373 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,374 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,421 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,421 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,421 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,469 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,469 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,469 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,515 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,516 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,516 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,516 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,562 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,562 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,562 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,606 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,607 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,607 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,657 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,657 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,657 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,658 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,710 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,710 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,711 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,766 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,814 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,814 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,860 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,906 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:49,953 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:50,001 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:50,049 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:50,097 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:50,143 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:50,189 - WARNING - PHÁT HI\u1ec6N NGÃ
+2025-03-07 12:26:53,209 - INFO - Camera stopped

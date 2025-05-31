@@ -1,0 +1,11 @@
+pip install pillow
+
+Cài đặt lại OpenCV với CUDA support:
+pip install opencv-contrib-python-headless
+
+nvidia-smi
+This version is known to support CUDA 11.2.
+pip install tensorflow==2.10.0
+pip install tensorflow-gpu
+pip install numpy<2 opencv-python matplotlib
+pip install playsound
